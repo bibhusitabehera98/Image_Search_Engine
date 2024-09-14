@@ -17,4 +17,4 @@ Welcome to the Image Search Engine! This project allows users to search for imag
 
 
 ## Live Demo
-You can view the deployed website [here]( https://bibhusitabehera98.github.io/Image_Search_Engine/).
+You can view the deployed website [here]( https://bibhusitabehera98.github.io/Image_Search_Engine/ ).
